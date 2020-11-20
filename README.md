@@ -16,3 +16,8 @@ I added some placeholder images on my Portfolio page to signify where my future 
 
 I used Bootstrap for the majority of this project, specifically for the navbar and sticky footer. I also used the grid system to create rows and columns on my pages.
 
+## Links
+
+GitHub: https://github.com/cgconverse/My-Portfolio
+
+Live Application: https://cgconverse.github.io/My-Portfolio/
