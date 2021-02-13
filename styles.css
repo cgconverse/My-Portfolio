@@ -11,7 +11,8 @@ img {
 }
 
 #contact-body {
-    background-image: url('/images/IMG_0862.JPG');
+    background-color: blanchedalmond;
+    /* background-image: url('/images/IMG_0862.JPG'); */
 }
 
 #about-body {
